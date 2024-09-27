@@ -2,44 +2,26 @@
 <h3 align="center">Backend Developer | PHP & Laravel Specialist</h3>
 
 ---
-<body>
-
-<div class="container">
-  <div class="description">
-    <p align="left">
-      Passionate about building meaningful applications that make a difference. Always learning and striving to improve.
-    </p>
-  </div>
-  <div class="image">
-    <p align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="400" height="300" />
-    </p>
-  </div>
-</div>
-
-
-
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
     <p align="left">
-     Passionate about building meaningful applications that make a difference. Always learning and striving to improve.
+      Passionate about building meaningful applications that make a difference. Always learning and striving to improve.
     </p>
+    <ul>
+      <li>🌱 <strong>Learning Focus</strong>: Advanced Laravel, RESTful API design</li>
+      <li>👯 <strong>Open to Collaboration</strong>: PHP/Laravel open-source projects and backend optimization challenges</li>
+      <li>🤔 <strong>Seeking Knowledge</strong>: High-availability architectures, microservices, and cloud integrations</li>
+      <li>📫 <strong>Contact</strong>: <a href="mailto:basmalakha772@gmail.com">basmalakha772@gmail.com</a></li>
+      <li>💡 <strong>Motivation</strong>: Combining clean energy concepts with tech-driven solutions</li>
+    </ul>
   </div>
-  <div style="flex: 1;">
-    <p align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="400" height="300" />
-    </p>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="400" height="300" />
   </div>
 </div>
 
----
 
-- 🌱 **Learning Focus**: Advanced Laravel, RESTful API design
-- 👯 **Open to Collaboration**: PHP/Laravel open-source projects and backend optimization challenges
-- 🤔 **Seeking Knowledge**: High-availability architectures, microservices, and cloud integrations
-- 📫 **Contact**: [basmalakha772@gmail.com](mailto:basmalakha772@gmail.com)
-- 💡 **Motivation**: Combining clean energy concepts with tech-driven solutions
 
 ---
 
