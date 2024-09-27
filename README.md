@@ -6,7 +6,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
     <p align="left">
-      A dedicated and passionate Backend Developer with a focus on building scalable, efficient, and secure web applications using PHP and Laravel. With a deep understanding of backend logic, databases, and server management, I strive to create solutions that optimize performance while enhancing user experience. I'm continuously exploring new technologies and improving my skills to stay current in the fast-evolving field of web development.
+     Passionate about building meaningful applications that make a difference. Always learning and striving to improve.
     </p>
   </div>
   <div style="flex: 1;">
@@ -18,7 +18,7 @@
 
 ---
 
-- 🌱 **Learning Focus**: Advanced Laravel, RESTful API design, and DevOps practices
+- 🌱 **Learning Focus**: Advanced Laravel, RESTful API design
 - 👯 **Open to Collaboration**: PHP/Laravel open-source projects and backend optimization challenges
 - 🤔 **Seeking Knowledge**: High-availability architectures, microservices, and cloud integrations
 - 📫 **Contact**: [basmalakha772@gmail.com](mailto:basmalakha772@gmail.com)
