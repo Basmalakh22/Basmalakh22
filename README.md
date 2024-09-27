@@ -13,7 +13,6 @@
       <li>👯 <strong>Open to Collaboration</strong>: PHP/Laravel open-source projects and backend optimization challenges</li>
       <li>🤔 <strong>Seeking Knowledge</strong>: High-availability architectures, microservices, and cloud integrations</li>
       <li>📫 <strong>Contact</strong>: <a href="mailto:basmalakha772@gmail.com">basmalakha772@gmail.com</a></li>
-      <li>💡 <strong>Motivation</strong>: Combining clean energy concepts with tech-driven solutions</li>
     </ul>
   </div>
   <div style="flex: 1; text-align: center;">
