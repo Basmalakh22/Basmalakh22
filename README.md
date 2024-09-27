@@ -2,6 +2,23 @@
 <h3 align="center">Backend Developer | PHP & Laravel Specialist</h3>
 
 ---
+<body>
+
+<div class="container">
+  <div class="description">
+    <p align="left">
+      Passionate about building meaningful applications that make a difference. Always learning and striving to improve.
+    </p>
+  </div>
+  <div class="image">
+    <p align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="400" height="300" />
+    </p>
+  </div>
+</div>
+
+
+
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
