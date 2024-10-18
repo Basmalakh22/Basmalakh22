@@ -23,13 +23,25 @@
 
 
 ---
-
 <h3 align="left">Connect with Me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/basmalakha22" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://x.com/Basmalakh22" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="X" height="30" width="40" />
+  </a>
+  <a href="mailto:basmalakha772@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://facebook.com/basmala.khaled" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/basmalakh2" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
