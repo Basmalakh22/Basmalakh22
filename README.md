@@ -65,9 +65,9 @@
   <div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 15px; width: 150px; text-align: center;">
     <strong>Frameworks</strong>
     <br />
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-    </a>
+   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+     <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
+   </a>
   </div>
 
   <div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 15px; width: 150px; text-align: center;">
