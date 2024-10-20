@@ -9,11 +9,12 @@
       Passionate about building meaningful applications that make a difference. Always learning and striving to improve.
     </p>
     <ul>
-      <li>🌱 <strong>Learning Focus</strong>: Advanced Laravel, RESTful API design</li>
-      <li>👯 <strong>Open to Collaboration</strong>: PHP/Laravel open-source projects and backend optimization challenges</li>
-      <li>🤔 <strong>Seeking Knowledge</strong>: High-availability architectures, microservices, and cloud integrations</li>
-      <li>📫 <strong>Contact</strong>: <a href="mailto:basmalakha772@gmail.com">basmalakha772@gmail.com</a></li>
-    </ul>
+        <li>🌱 <strong>Learning Focus:</strong> Advanced Laravel, RESTful API design</li>
+        <li>👯 <strong>Open to Collaboration:</strong> PHP and Laravel open-source projects</li>
+        <li>🤔 <strong>Seeking Knowledge:</strong> High-availability architectures, microservices, cloud integrations</li>
+        <li>📫 <strong>Contact:</strong> <a href="mailto:basmalakha772@gmail.com">basmalakha772@gmail.com</a></li>
+   </ul>
+
   </div>
   <div style="flex: 1; text-align: center;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="400" height="300" />
