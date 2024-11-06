@@ -8,7 +8,7 @@
 ---
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZvYmxmcTZvY3oyanBmNG05eDlxdGgyaGJkd2VkazltNWdwajVlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" alt="Programming GIF" width="300" height="150" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 250px>
     </div>
     
   <div style="flex: 1; padding-right: 20px;">
