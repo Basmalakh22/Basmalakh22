@@ -5,8 +5,11 @@
 </div>
 
 ---
-
 <div style="display: flex; align-items: center; justify-content: space-between;">
+    <div style="flex: 1; text-align: center;">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZvYmxmcTZvY3oyanBmNG05eDlxdGgyaGJkd2VkazltNWdwajVlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" alt="Programming GIF" width="300" height="150" />
+    </div>
+    
   <div style="flex: 1; padding-right: 20px;">
     <p align="left">
       Passionate about building meaningful applications that make a difference. Always learning and striving to improve.
@@ -17,12 +20,10 @@
         <li>🤔 <strong>Seeking Knowledge:</strong> High-availability architectures, microservices, cloud integrations</li>
         <li>📫 <strong>Contact:</strong> <a href="mailto:basmalakha772@gmail.com">basmalakha772@gmail.com</a></li>
    </ul>
-
   </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="400" height="300" />
-  </div>
+  
 </div>
+
 
 
 
