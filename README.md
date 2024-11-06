@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Basmala Khaled</h1>
 <h3 align="center">Backend Developer | PHP & Laravel Specialist</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Basmala!;I'm+a+Backend+Developer...;PHP+%26+Laravel+Specialist)](https://git.io/typing-svg)
 
 ---
 
