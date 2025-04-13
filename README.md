@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Basmala Khaled</h1>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2300A9FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Back-End+Developer+%F0%9F%92%BB;PHP+%26+Laravel+Specialist;Problem+Solver;Open-Source+Enthusiast;Tech+Lover;Continuous+Learner" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2300A9FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Data+Analyst;Problem+Solver;Tech+Lover;Continuous+Learner" alt="Headline" />
 </div>
 
 ---
@@ -13,12 +13,14 @@
     
   <div style="flex: 1; padding-right: 20px;">
     <p align="left">
-      Passionate about building meaningful applications that make a difference. Always learning and striving to improve.
+     passionate Data Analyst with a knack for turning raw data into actionable insights. I specialize in uncovering hidden patterns, building dashboards, and enabling data-driven decision-making for businesses
     </p>
     <ul>
-        <li>🌱 <strong>Learning Focus:</strong> Advanced Laravel, RESTful API design</li>
-        <li>👯 <strong>Open to Collaboration:</strong> PHP and Laravel open-source projects</li>
-        <li>🤔 <strong>Seeking Knowledge:</strong> High-availability architectures, microservices, cloud integrations</li>
+        <li>📊 Analyze large datasets to find trends, correlations, and opportunities.</li>
+        <li>📈 Create compelling dashboards and reports using **Power BI**, **Tableau**, or **Excel**.</li>
+        <li>🔍 Use **SQL** to extract and transform data from relational databases.</li>
+        <li>🐍 Apply **Python** (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, exploration, and visualization.</li>
+        <li>🤖 Explore machine learning techniques for predictive analytics.</li>
         <li>📫 <strong>Contact:</strong> <a href="mailto:basmalakha772@gmail.com">basmalakha772@gmail.com</a></li>
    </ul>
   </div>
