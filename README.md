@@ -128,14 +128,13 @@
 </div>
 
 
+<h3 align="center"> GitHub Stats</h3>
 
-<h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=basmalakh22&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=basmalakh22&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=basmalakh22&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=basmalakh22&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basmalakh22&" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=basmalakh22&theme=tokyonight&cache_seconds=1800" width="60%" />
 </p>
